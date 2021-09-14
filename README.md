@@ -1,0 +1,2 @@
+# javascrpitilk-dev
+JavaScript Ödev
